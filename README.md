@@ -1,10 +1,13 @@
 # IMPOSSIBLE_PONG
 
 #######################
+
 GAME LINK : https://captain-t2004.itch.io/impossible-pong
+
 #######################
 
 Just a game I made to learn unity and c#..............
+
 This game was made to simulate a classic Atari Arcade Game "Pong".
 
 It was a great learning experience where i learned to first use a lot of tools inside Unity that i can use in other projects.
